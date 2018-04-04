@@ -1,0 +1,998 @@
+[2018/04/04 15:25:41] >> myTweets() 
+[2018/04/04 15:25:42] 
+[
+  {
+    "created_at": "Wed Apr 04 09:10:16 +0000 2018",
+    "id": 981458922329530400,
+    "id_str": "981458922329530368",
+    "text": "#plantMoreTrees Go Solar!!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "plantMoreTrees",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 979145082702934000,
+      "id_str": "979145082702934016",
+      "name": "Jarvis Environmental Group",
+      "screen_name": "JarvisEnvGroup",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Wed Mar 28 23:55:54 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Wed Apr 04 09:03:47 +0000 2018",
+    "id": 981457291856752600,
+    "id_str": "981457291856752640",
+    "text": "#plantMoreTrees Bike more often. Reduce pollution",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "plantMoreTrees",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 979145082702934000,
+      "id_str": "979145082702934016",
+      "name": "Jarvis Environmental Group",
+      "screen_name": "JarvisEnvGroup",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Wed Mar 28 23:55:54 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 04 08:43:39 +0000 2018",
+    "id": 981452223904473100,
+    "id_str": "981452223904473089",
+    "text": "#plantMoreTrees Carry cloth bags for shopping. Refrain from getting paper or plastic bags from the stores",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "plantMoreTrees",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 979145082702934000,
+      "id_str": "979145082702934016",
+      "name": "Jarvis Environmental Group",
+      "screen_name": "JarvisEnvGroup",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Wed Mar 28 23:55:54 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 04 05:14:02 +0000 2018",
+    "id": 981399472335999000,
+    "id_str": "981399472335998977",
+    "text": "#plantMoreTrees Plant more trees today for a better tomorrow",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "plantMoreTrees",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 979145082702934000,
+      "id_str": "979145082702934016",
+      "name": "Jarvis Environmental Group",
+      "screen_name": "JarvisEnvGroup",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Wed Mar 28 23:55:54 +0000 2018",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
+[2018/04/04 15:28:43] >> spotifySong() 
+[2018/04/04 15:28:44] 
+Spotify URL: https://api.spotify.com/v1/search?query=The+Sign&type=track&offset=0&limit=20
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+        "name": "Ty Dolla $ign",
+        "type": "artist",
+        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "JP",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "RO",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TH",
+      "TR",
+      "TW",
+      "US",
+      "UY",
+      "VN",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK"
+    },
+    "href": "https://api.spotify.com/v1/albums/3SHx7bBQFI4J8QRr6D5cOK",
+    "id": "3SHx7bBQFI4J8QRr6D5cOK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/023e60c410e185326b394caa3823b02e8d3e13d6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/c19ecff803f99ae4e43f5456004feb0627cf7e84",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/0278337d0bed164a4ea0d6d1d31dcac23bca467a",
+        "width": 64
+      }
+    ],
+    "name": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]",
+    "release_date": "2014-06-10",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3SHx7bBQFI4J8QRr6D5cOK"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+      },
+      "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+      "id": "7c0XG5cIJTrrAgEC3ULPiq",
+      "name": "Ty Dolla $ign",
+      "type": "artist",
+      "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YinUQ50QDB7ZxSCLyQ40k",
+      "id": "0YinUQ50QDB7ZxSCLyQ40k",
+      "name": "Mustard",
+      "type": "artist",
+      "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+      },
+      "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+      "id": "137W8MRPWKqSmrBGDBFSop",
+      "name": "Wiz Khalifa",
+      "type": "artist",
+      "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AR",
+    "AT",
+    "BE",
+    "BG",
+    "BO",
+    "BR",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "GT",
+    "HK",
+    "HN",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "JP",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "MX",
+    "MY",
+    "NI",
+    "NL",
+    "NO",
+    "NZ",
+    "PA",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "PY",
+    "RO",
+    "SE",
+    "SG",
+    "SK",
+    "SV",
+    "TH",
+    "TR",
+    "TW",
+    "US",
+    "UY",
+    "VN",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 242983,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "USAT21401391"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7t2bFihaDvhIrd2gn2CWJO",
+  "id": "7t2bFihaDvhIrd2gn2CWJO",
+  "name": "Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix",
+  "popularity": 80,
+  "preview_url": "https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=c9b2cd8444714ece84746cb74eb6e909",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7t2bFihaDvhIrd2gn2CWJO"
+}
+[2018/04/04 15:30:54] >> spotifySong() 
+[2018/04/04 15:30:55] 
+Spotify URL: https://api.spotify.com/v1/search?query=dancing+in+the+moonlight+&type=track&offset=0&limit=20
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        },
+        "href": "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+        "id": "6xeFne1rkxMhKSW3ipvkdV",
+        "name": "Toploader",
+        "type": "artist",
+        "uri": "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+      }
+    ],
+    "available_markets": [
+      "HK",
+      "ID",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "TW",
+      "US",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4uTSmNGMP2FrM5D3NMeI6P"
+    },
+    "href": "https://api.spotify.com/v1/albums/4uTSmNGMP2FrM5D3NMeI6P",
+    "id": "4uTSmNGMP2FrM5D3NMeI6P",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/0c2f13b8370e06797b6ab7998b9a283802455f42",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/abfa7677702cad853c9004dae9cb18b4fd893c61",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/421a1d4031cb9019d82cb9d6b4b0493411b5dc79",
+        "width": 64
+      }
+    ],
+    "name": "Onka's Big Moka",
+    "release_date": "2000",
+    "release_date_precision": "year",
+    "type": "album",
+    "uri": "spotify:album:4uTSmNGMP2FrM5D3NMeI6P"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+      },
+      "href": "https://api.spotify.com/v1/artists/6xeFne1rkxMhKSW3ipvkdV",
+      "id": "6xeFne1rkxMhKSW3ipvkdV",
+      "name": "Toploader",
+      "type": "artist",
+      "uri": "spotify:artist:6xeFne1rkxMhKSW3ipvkdV"
+    }
+  ],
+  "available_markets": [
+    "HK",
+    "ID",
+    "MY",
+    "PH",
+    "SG",
+    "TH",
+    "TW",
+    "US",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBBBN0102316"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1OzY7RRZh3EcIKn7VKZUTx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1OzY7RRZh3EcIKn7VKZUTx",
+  "id": "1OzY7RRZh3EcIKn7VKZUTx",
+  "name": "Dancing in the Moonlight - 2001 Remix",
+  "popularity": 69,
+  "preview_url": "https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=c9b2cd8444714ece84746cb74eb6e909",
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:1OzY7RRZh3EcIKn7VKZUTx"
+}
+[2018/04/04 15:31:36] >> spotifySong() 
+[2018/04/04 15:31:36] 
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+[2018/04/04 15:35:19] >> spotifySong() 
+[2018/04/04 15:35:20] 
+Spotify URL: https://api.spotify.com/v1/search?query=does+this+exist+&type=track&offset=0&limit=20
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        },
+        "href": "https://api.spotify.com/v1/artists/1FgsVeOhRYuSw2ghkIXV0A",
+        "id": "1FgsVeOhRYuSw2ghkIXV0A",
+        "name": "DREAMERS",
+        "type": "artist",
+        "uri": "spotify:artist:1FgsVeOhRYuSw2ghkIXV0A"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
+    },
+    "href": "https://api.spotify.com/v1/albums/2dtruUPZ49oSh468hKErtf",
+    "id": "2dtruUPZ49oSh468hKErtf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/512c1841f5152dda23b03b04cfdccc22d8e79246",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/c1c9e3709afa701fbbc087bb063ecf0eb981d175",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/eaaeaabb425550210c8347fc073beef71e7d1029",
+        "width": 64
+      }
+    ],
+    "name": "This Album Does Not Exist",
+    "release_date": "2016-08-26",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2dtruUPZ49oSh468hKErtf"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FgsVeOhRYuSw2ghkIXV0A",
+      "id": "1FgsVeOhRYuSw2ghkIXV0A",
+      "name": "DREAMERS",
+      "type": "artist",
+      "uri": "spotify:artist:1FgsVeOhRYuSw2ghkIXV0A"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 205173,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USHR11637203"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7bEDDsy2LFC0KSqhZp5nPE",
+  "id": "7bEDDsy2LFC0KSqhZp5nPE",
+  "name": "Sweet Disaster",
+  "popularity": 64,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7bEDDsy2LFC0KSqhZp5nPE"
+}
+[2018/04/04 15:36:42] >> movieThis() 
+Request URL: http://www.omdbapi.com/?t=Mr. Nobody&y=&plot=short&apikey=trilogy
+[2018/04/04 15:36:42] 
+"{\"Title\":\"Mr. Nobody\",\"Year\":\"2009\",\"Rated\":\"R\",\"Released\":\"26 Sep 2013\",\"Runtime\":\"141 min\",\"Genre\":\"Drama, Fantasy, Romance\",\"Director\":\"Jaco Van Dormael\",\"Writer\":\"Jaco Van Dormael\",\"Actors\":\"Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham\",\"Plot\":\"A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.\",\"Language\":\"English, Mohawk\",\"Country\":\"Belgium, Germany, Canada, France, USA, UK\",\"Awards\":\"11 wins & 5 nominations.\",\"Poster\":\"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX300.jpg\",\"Ratings\":[{\"Source\":\"Internet Movie Database\",\"Value\":\"7.9/10\"},{\"Source\":\"Rotten Tomatoes\",\"Value\":\"66%\"},{\"Source\":\"Metacritic\",\"Value\":\"63/100\"}],\"Metascore\":\"63\",\"imdbRating\":\"7.9\",\"imdbVotes\":\"180,686\",\"imdbID\":\"tt0485947\",\"Type\":\"movie\",\"DVD\":\"25 Feb 2014\",\"BoxOffice\":\"$3,600\",\"Production\":\"Magnolia Pictures\",\"Website\":\"http://www.magpictures.com/mrnobody/\",\"Response\":\"True\"}"
+[2018/04/04 15:39:41] >> movieThis() 
+Request URL: http://www.omdbapi.com/?t=The Matrix &y=&plot=short&apikey=trilogy
+[2018/04/04 15:39:41] 
+"{\"Title\":\"The Matrix\",\"Year\":\"1999\",\"Rated\":\"R\",\"Released\":\"31 Mar 1999\",\"Runtime\":\"136 min\",\"Genre\":\"Action, Sci-Fi\",\"Director\":\"Lana Wachowski, Lilly Wachowski\",\"Writer\":\"Lilly Wachowski, Lana Wachowski\",\"Actors\":\"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving\",\"Plot\":\"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"Won 4 Oscars. Another 34 wins & 48 nominations.\",\"Poster\":\"https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg\",\"Ratings\":[{\"Source\":\"Internet Movie Database\",\"Value\":\"8.7/10\"},{\"Source\":\"Rotten Tomatoes\",\"Value\":\"87%\"},{\"Source\":\"Metacritic\",\"Value\":\"73/100\"}],\"Metascore\":\"73\",\"imdbRating\":\"8.7\",\"imdbVotes\":\"1,383,532\",\"imdbID\":\"tt0133093\",\"Type\":\"movie\",\"DVD\":\"21 Sep 1999\",\"BoxOffice\":\"N/A\",\"Production\":\"Warner Bros. Pictures\",\"Website\":\"http://www.whatisthematrix.com\",\"Response\":\"True\"}"
+[2018/04/04 15:39:58] >> movieThis() 
+Request URL: http://www.omdbapi.com/?t=qwerty &y=&plot=short&apikey=trilogy
+[2018/04/04 15:39:58] 
+"{\"Title\":\"Qwerty\",\"Year\":\"2012\",\"Rated\":\"N/A\",\"Released\":\"12 Apr 2012\",\"Runtime\":\"90 min\",\"Genre\":\"Comedy\",\"Director\":\"Bill Sebastian\",\"Writer\":\"Juliet McDaniel\",\"Actors\":\"Dana Pupkin, Eric Hailey, Bill Redding, Joel Wiersema\",\"Plot\":\"This entertaining and heartwarming romantic comedy follows introverted 'word-nerd' Zoe, whose life is turned upside down when she meets her emotional match in irascible weirdo Marty. Before...\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"3 wins & 1 nomination.\",\"Poster\":\"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNjYwMjY4MV5BMl5BanBnXkFtZTcwMjk1MjQ3Ng@@._V1_SX300.jpg\",\"Ratings\":[{\"Source\":\"Internet Movie Database\",\"Value\":\"6.0/10\"}],\"Metascore\":\"N/A\",\"imdbRating\":\"6.0\",\"imdbVotes\":\"212\",\"imdbID\":\"tt1591071\",\"Type\":\"movie\",\"DVD\":\"N/A\",\"BoxOffice\":\"N/A\",\"Production\":\"FilmBuff\",\"Website\":\"http://www.qwertythemovie.com/about.html\",\"Response\":\"True\"}"
+[2018/04/04 15:40:15] >> movieThis() 
+Request URL: http://www.omdbapi.com/?t=assdsdsds &y=&plot=short&apikey=trilogy
+[2018/04/04 15:40:15] 
+"{\"Response\":\"False\",\"Error\":\"Movie not found!\"}"
+[2018/04/04 15:41:14] >> randomize() 
+Random function: spotify-this-song
+[2018/04/04 15:41:14] >> spotifySong() 
+[2018/04/04 15:41:15] 
+Spotify URL: https://api.spotify.com/v1/search?query=Baby+one+more+time&type=track&offset=0&limit=20
+{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+        "id": "26dSoYclwsYLMAKD3tpOr4",
+        "name": "Britney Spears",
+        "type": "artist",
+        "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IL",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PL",
+      "PT",
+      "PY",
+      "RO",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TH",
+      "TR",
+      "TW",
+      "US",
+      "UY",
+      "VN",
+      "ZA"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+    },
+    "href": "https://api.spotify.com/v1/albums/3WNxdumkSMGMJRhEgK80qx",
+    "id": "3WNxdumkSMGMJRhEgK80qx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/21eb19a80704f8dbf8176d0db0fd517fa32e669c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/9d5d566ed1af67991ee1816137b58752a2e76d93",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/19bc0aedd3e232e9deb859de911b2fe7af5570e2",
+        "width": 64
+      }
+    ],
+    "name": "...Baby One More Time (Digital Deluxe Version)",
+    "release_date": "1999",
+    "release_date_precision": "year",
+    "type": "album",
+    "uri": "spotify:album:3WNxdumkSMGMJRhEgK80qx"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+      },
+      "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+      "id": "26dSoYclwsYLMAKD3tpOr4",
+      "name": "Britney Spears",
+      "type": "artist",
+      "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AR",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BO",
+    "BR",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "GT",
+    "HK",
+    "HN",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "MX",
+    "MY",
+    "NI",
+    "NL",
+    "NO",
+    "NZ",
+    "PA",
+    "PE",
+    "PL",
+    "PT",
+    "PY",
+    "RO",
+    "SE",
+    "SG",
+    "SK",
+    "SV",
+    "TH",
+    "TR",
+    "TW",
+    "US",
+    "UY",
+    "VN",
+    "ZA"
+  ],
+  "disc_number": 1,
+  "duration_ms": 211066,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USJI19810404"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3MjUtNVVq3C8Fn0MP3zhXa",
+  "id": "3MjUtNVVq3C8Fn0MP3zhXa",
+  "name": "...Baby One More Time",
+  "popularity": 77,
+  "preview_url": "https://p.scdn.co/mp3-preview/da2134a161f1cb34d17c2d6d7e77cc93d1c1e6f7?cid=c9b2cd8444714ece84746cb74eb6e909",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa"
+}
+[2018/04/04 15:48:17] >> randomize() 
+Random function: movie-this
+[2018/04/04 15:48:17] >> movieThis() 
+Request URL: http://www.omdbapi.com/?t=The Matrix&y=&plot=short&apikey=trilogy
+[2018/04/04 15:48:17] 
+"{\"Title\":\"The Matrix\",\"Year\":\"1999\",\"Rated\":\"R\",\"Released\":\"31 Mar 1999\",\"Runtime\":\"136 min\",\"Genre\":\"Action, Sci-Fi\",\"Director\":\"Lana Wachowski, Lilly Wachowski\",\"Writer\":\"Lilly Wachowski, Lana Wachowski\",\"Actors\":\"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving\",\"Plot\":\"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.\",\"Language\":\"English\",\"Country\":\"USA\",\"Awards\":\"Won 4 Oscars. Another 34 wins & 48 nominations.\",\"Poster\":\"https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg\",\"Ratings\":[{\"Source\":\"Internet Movie Database\",\"Value\":\"8.7/10\"},{\"Source\":\"Rotten Tomatoes\",\"Value\":\"87%\"},{\"Source\":\"Metacritic\",\"Value\":\"73/100\"}],\"Metascore\":\"73\",\"imdbRating\":\"8.7\",\"imdbVotes\":\"1,383,532\",\"imdbID\":\"tt0133093\",\"Type\":\"movie\",\"DVD\":\"21 Sep 1999\",\"BoxOffice\":\"N/A\",\"Production\":\"Warner Bros. Pictures\",\"Website\":\"http://www.whatisthematrix.com\",\"Response\":\"True\"}"
+[2018/04/04 15:51:40] >> randomize() 
+Random function: do-whatever-it-says
+[2018/04/04 15:51:40] >> errorInput() 
