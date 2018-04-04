@@ -16,6 +16,7 @@ var spotify = new Spotify(key.spotify);
 var client = new Twitter(key.twitter);
 var movie = "";
 var song = "";
+var handle = "";
 var logTime = "";
 
 // console.log(key.spotify);
@@ -25,8 +26,14 @@ var logTime = "";
 
 switch (operation) {
 	case "my-tweets":
-		myTweets();
+		if (process.argv.length > 3) {
+			handle = process.argv[3];
+		} else {
+			handle = 'JarvisEnvGroup';
+		}
+		myTweets(handle);
 		break;
+
 	case "spotify-this-song":
 		if (process.argv.length > 3) {
 			for (let i = 3; i < process.argv.length; i++) {
@@ -57,7 +64,7 @@ switch (operation) {
 		break;
 }
 
-function myTweets() {
+function myTweets(twitterHandle) {
 	// console.log("Running my tweets");
 	logTime = moment().format('YYYY/MM/DD HH:mm:ss');
 	// console.log("[" + logTime + "]");
@@ -65,7 +72,7 @@ function myTweets() {
 		if (err) { return; }
 	});
 
-	var params = { screen_name: 'JarvisEnvGroup' };
+	var params = { screen_name: twitterHandle };
 	client.get('statuses/user_timeline', params, function (error, tweets, response) {
 		logTime = moment().format('YYYY/MM/DD HH:mm:ss');
 		if (!error) {
@@ -222,8 +229,8 @@ function randomize() {
 
 		switch (dataArr[0]) {
 			case "my-tweets":
-				console.log("Getting My Tweets");
-				myTweets();
+				console.log("Getting Tweets");
+				myTweets(dataArr[1]);
 				break;
 			case "spotify-this-song":
 				console.log("Spotifying... ");
